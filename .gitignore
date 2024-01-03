@@ -1,0 +1,17 @@
+data/
+
+sound_classifier_model/
+
+UrbanSound8K.tar.gz
+
+UrbanSound8K/
+
+*.pkl
+
+dataset/
+
+*.wav
+
+testSound/
+
+.DS_Store
