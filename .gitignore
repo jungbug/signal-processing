@@ -13,3 +13,5 @@ dataset/
 *.wav
 
 testSound/
+
+.DS_Store
