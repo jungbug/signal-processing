@@ -15,3 +15,7 @@ dataset/
 testSound/
 
 .DS_Store
+
+testset/
+
+*.h5
